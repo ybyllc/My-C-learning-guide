@@ -6,7 +6,7 @@
 后期可能会加上onenote笔记文件，不一定<br>
 # 参考教程资料
  - 学校的教材[《C语言程序设计（第三版）》](https://item.jd.com/69098642544.html)
-写的废话太多，重点的解释又少，和[python教材](https://item.jd.com/12501805.html)差远了，我们一般都听老师讲<br>
+不过写的废话太多，重点的解释又少，和[python教材](https://item.jd.com/12501805.html)差远了，我们一般都听老师讲<br>
 <br>
 
  - 等待推荐<br>
